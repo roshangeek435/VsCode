@@ -1,0 +1,125 @@
+{
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.tabSize": 4,
+    "prettier.tabWidth": 4,
+    "editor.insertSpaces": true,
+    "editor.detectIndentation": false,
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+
+    "liquid.format": true,
+
+    "[php]": {
+        "editor.defaultFormatter": "bmewburn.vscode-intelephense-client"
+    },
+    "[css]": {
+        "editor.defaultFormatter": "vscode.css-language-features"
+    },
+    "[javascript]": {
+        "editor.snippetSuggestions": "top"
+    },
+    "emmet.triggerExpansionOnTab": true,
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact",
+        "vue-html": "html",
+        "razor": "html",
+        "plaintext": "jade"
+    },
+    "liveServer.settings.donotShowInfoMsg": true,
+    "security.workspace.trust.untrustedFiles": "open",
+    "security.workspace.trust.banner": "never",
+    "security.workspace.trust.enabled": false,
+    "editor.fontFamily": "Jetbrains Mono",
+    "editor.fontLigatures": true,
+    "editor.fontSize": 13,
+    "editor.lineHeight": 24.5,
+    "window.restoreFullscreen": true,
+    "explorer.incrementalNaming": "smart",
+    "workbench.editor.untitled.hint": "hidden",
+    "explorer.confirmDelete": false,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "workbench.startupEditor": "none",
+    "git.autofetch": true,
+    "editor.foldingMaximumRegions": 65000,
+    "terminal.integrated.cursorBlinking": true,
+    "importCost.margin": 0.7,
+    "importCost.fontStyle": "oblique",
+    "reactSnippets.settings.prettierEnabled": true,
+    "window.confirmBeforeClose": "keyboardOnly",
+    "terminal.explorerKind": "external",
+    "terminal.integrated.cursorWidth": 2,
+    "cSpell.customDictionaries": {
+        "custom-dictionary-user": {
+            "name": "custom-dictionary-user",
+            "path": "~/.cspell/custom-dictionary-user.txt",
+            "addWords": true,
+            "scope": "user"
+        }
+    },
+    "editor.renderWhitespace": "all",
+    "scm.diffDecorationsIgnoreTrimWhitespace": "true",
+    "editor.bracketPairColorization.enabled": true,
+    "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+    "editor.cursorBlinking": "smooth",
+    "editor.cursorSmoothCaretAnimation": "on",
+    "prettier.jsxBracketSameLine": true,
+    "workbench.colorTheme": "Night Owl",
+    "git-autoconfig.configList": [
+        {
+            "user.email": "roshangeek435@gmail.com",
+            "user.name": "roshangeek435"
+        },
+        {
+            "user.email": "mauliksuvagiya@gmail.com",
+            "user.name": "mauliksuvagiya"
+        },
+        {
+            "user.email": "swapnilgeek435@gmail.com",
+            "user.name": "Swaps300"
+        },
+        {
+            "user.email": "vijaykakadiya435@gmail.com",
+            "user.name": "Vijay-Kakadiya"
+        },
+        {
+            "user.email": "raj.kakadiya25@gmail.com",
+            "user.name": "rajanigeek"
+        }
+    ],
+    "gitlens.defaultDateFormat": "DD-MM-YYYY",
+    "gitlens.codeLens.scopes": ["document", "containers"],
+    "gitlens.statusBar.alignment": "left",
+    "prettier.printWidth": 110,
+    "yarn.enableTouchbar": true,
+    "git.confirmSync": false,
+    "liveSassCompile.settings.generateMap": false,
+    "liveSassCompile.settings.formats": [
+        {
+            "format": "expanded",
+            "extensionName": ".css",
+            "savePath": "~/../css/"
+        },
+        {
+            "extensionName": ".min.css",
+            "format": "compressed",
+            "savePath": "~/../css/"
+        }
+    ],
+    "liveSassCompile.settings.autoprefix": ["> 1%", "last 2 versions"],
+    "editor.guides.bracketPairs": true,
+    "gitlens.views.contributors.showStatistics": true,
+    "git.postCommitCommand": "sync",
+    "thunder-client.codeSnippetLanguage": "js-axios",
+    "[scss]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.formatOnSave": true,
+    "cSpell.ignoreWords": ["swiper"],
+    "liveServer.settings.donotVerifyTags": true,
+    "window.doubleClickIconToClose": true,
+    "window.commandCenter": true,
+    "tabnine.experimentalAutoImports": true
+    // "files.autoSave": "onWindowChange"
+}
